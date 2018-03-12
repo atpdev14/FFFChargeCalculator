@@ -1,0 +1,14 @@
+#title, #calcDiv, #initValue, #submitButton, #resultsDiv {
+	text-align: center;
+	margin: auto;
+}
+
+.resultsDivider {
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.resultsText, .resultsLabel {
+	display: inline;
+}
